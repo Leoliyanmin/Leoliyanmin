@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+I am junior student majoring in Computer Science in SUSTech.
+- 🔭 I’m currently working on STAR Physical Interaction Lab(Under the supervision of Professor Zhengfeng)
+- 🥰 I really love cooking, philosophy(Even though I am not good at it) and comics!!!!
 <!--
 **Leoliyanmin/Leoliyanmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
